@@ -1,4 +1,7 @@
 # what you need :
+Big thanks to xfarzad
+
+# what you need :
 
 1. revert roblox uwp first from : https://github.com/cerealwithmilk/uwp/releases
 
@@ -27,7 +30,7 @@ youtube video : https://www.youtube.com/watch?v=w1OtCf70P7s&ab_channel=farzad
 
 if you dont see www.roblox.com this is the url link u need ```https://www.roblox.com/mobileapi/check-app-version?appVersion=AppUWPV2.592.586```
 
-# information
+# if crashes
 
 If it crashes after a few seconds for you, do this!!!!!!
 
