@@ -26,3 +26,11 @@ youtube video : https://www.youtube.com/watch?v=w1OtCf70P7s&ab_channel=farzad
 # information
 
 if you dont see www.roblox.com this is the url link u need ```https://www.roblox.com/mobileapi/check-app-version?appVersion=AppUWPV2.592.586```
+
+# information
+
+If it crashes after a few seconds for you, do this!!!!!!
+
+Replace the old url in autoresponder with this one below. Make sure to click save.
+
+https://www.roblox.com/mobileapi/check-app-version?appVersion=AppUWPV2.592.586
